@@ -57,7 +57,7 @@
 
  --}}
 
- <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
    <span class="navbar-brand" >
        MoveWithMe
    </span>
